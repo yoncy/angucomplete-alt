@@ -41,13 +41,33 @@
 
 * Missing 'type' field on input element when not specified #167
 
+### [@elkami12](https://github.com/elkami12)
+
+* Fix for issue #426 (Not found" when an external request is cancelled) #427
+
 ### [@federicojasson: Federico Jasson](https://github.com/federicojasson)
 
 * Fix auto-match #245 #246
 
+### [@ferfabricio: Fernando Fabricio dos Santos](https://github.com/ferfabricio)
+
+* Update README #439
+
+### [@fkeusch](https://github.com/fkeusch)
+
+* Add tabindex #311 #57
+
 ### [@Freezystem: Nico](https://github.com/Freezystem)
 
 * Add focus-first #92 #242
+
+### [@ggillyb: Gilly Barr](https://github.com/ggillyb)
+
+* stop displaying 'searching' message on error #336
+
+### [@glaggia-larus: Gianmarco Laggia](https://github.com/glaggia-larus)
+
+* Pass textSearching and textNoResult with @ #357
 
 ### [@handiwijoyo: Handi Wijoyo](https://github.com/handiwijoyo)
 
@@ -56,6 +76,16 @@
 ### [@iamgurdip](https://github.com/iamgurdip)
 
 * Escape regular expression #123
+
+### [@JaZo: Jasper Zonneveld](https://github.com/JaZo)
+
+* Pass textSearching and textNoResult with @ #335
+* Show text-searching on focus or when input becomes empty with minlength=0 #378
+* Normalize return object before we check the status #421
+
+### [@jesusr: Jesús R Peinado](https://github.com/jesusr)
+
+* Adding parseInput function parameter #294
 
 ### [@jbuquet: Javier Buquet](https://github.com/jbuquet)
 
@@ -69,9 +99,18 @@
 
 * Add an example on clearInput event #225 #252
 
+### [@johanye: Hang Ye](https://github.com/johanye)
+
+* Make localData accessible to local search function #343
+
 ### [@Leocrest](https://github.com/Leocrest)
 
 * Clear input #61
+
+### [@loren138](https://github.com/loren138)
+
+* Update the package file and contribution instructions #372
+* Pass data variable to select function #373
 
 ### [@mcnocopo: Pachito Marco Calabrese](https://github.com/mcnocopo)
 
@@ -90,9 +129,17 @@
 * New callback handler, response translator, better template code format, and css fix #6
 * Fixed support for IE8 #13
 
+### [@nhim175: Thinh Pham](https://github.com/nhim175)
+
+* Adding support for IMEs #430
+
 ### [@peterjkirby: Peter Kirby](https://github.com/peterjkirby)
 
 * Bug fix #97
+
+### [@postama: Adam Postma](https://github.com/postama)
+
+* Change to use promises instead of success/catch. #442
 
 ### [@sdbondi: Stan Bondi](https://github.com/sdbondi)
 
@@ -105,6 +152,10 @@
 ### [@termleech](https://github.com/termleech)
 
 * Add maxlength #136
+
+### [@thetrevdev: Trevor](https://github.com/thetrevdev)
+
+* Move strict directive #324
 
 ### [@tomgutz: Tomas Gutierrez](https://github.com/tomgutz)
 
